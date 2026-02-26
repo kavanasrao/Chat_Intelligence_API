@@ -76,7 +76,7 @@ Key Components:
 ---
 
 ## 📂 Project Structure
-'''
+```
         backend/
         │
         ├── agent/
@@ -98,8 +98,8 @@ Key Components:
         │
         └── app.py
 
+```
 
-'''
 ---
 
 ## 🔐 Environment Variables
