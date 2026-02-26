@@ -76,29 +76,30 @@ Key Components:
 ---
 
 ## 📂 Project Structure
-backend/
-│
-├── agent/
-│ ├── state.py
-│ ├── logic.py
-│ └── graph.py
-│
-├── database/
-│ ├── db.py
-│ ├── usermodel.py
-│ └── init__.py
-│
-├── llm_model/
-│ ├── extract.py
-│ └── prompt.py
-│
-├── core/
-│ └── config.py
-│
-└── app.py
+'''
+        backend/
+        │
+        ├── agent/
+        │ ├── state.py
+        │ ├── logic.py
+        │ └── graph.py
+        │
+        ├── database/
+        │ ├── db.py
+        │ ├── usermodel.py
+        │ └── init__.py
+        │
+        ├── llm_model/
+        │ ├── extract.py
+        │ └── prompt.py
+        │
+        ├── core/
+        │ └── config.py
+        │
+        └── app.py
 
 
-
+'''
 ---
 
 ## 🔐 Environment Variables
